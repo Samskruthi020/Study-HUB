@@ -1,0 +1,198 @@
+[
+  {
+    "category": "Core Subjects",
+    "title": "DSA Roadmap PDF",
+    "type": "link",
+    "link": "https://www.geeksforgeeks.org/complete-roadmap-to-learn-dsa-from-scratch/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230706095706/intro-data-structure-algorithm.png"
+  },
+  {
+    "category": "Core Subjects",
+    "title": "Operating System Cheat Sheet",
+    "type": "link",
+    "link": "https://www.studytonight.com/operating-system/",
+    "image": "https://www.studytonight.com/css/images/study-tonight-logo.png"
+  },
+  {
+    "category": "Core Subjects",
+    "title": "Computer Networks Summary",
+    "type": "link",
+    "link": "https://www.geeksforgeeks.org/computer-network-tutorials/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230417045622/Computer-Network-Tutorial.webp"
+  },
+  {
+    "category": "Core Subjects",
+    "title": "DBMS ER Diagram Practice",
+    "type": "link",
+    "link": "https://www.geeksforgeeks.org/database-management-system-tutorial/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20210928194949/DatabaseManagementSystem.png"
+  },
+  {
+    "category": "Core Subjects",
+    "title": "Java Cheat Sheet",
+    "type": "link",
+    "link": "https://www.geeksforgeeks.org/java/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230630120346/java-programming-language.webp"
+  },
+  {
+    "category": "Core Subjects",
+    "title": "Python Notes",
+    "type": "link",
+    "link": "https://www.geeksforgeeks.org/python-programming-language/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230630120349/python-programming-language.webp"
+  },
+  {
+    "category": "Core Subjects",
+    "title": "Software Engineering Notes",
+    "type": "link",
+    "link": "https://www.geeksforgeeks.org/software-engineering/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230630120352/software-engineering.webp"
+  },
+  {
+    "category": "Core Subjects",
+    "title": "Machine Learning PDF",
+    "type": "link",
+    "link": "https://www.geeksforgeeks.org/machine-learning/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230630120355/machine-learning.webp"
+  },
+  {
+    "category": "Coding Platforms",
+    "title": "LeetCode",
+    "type": "link",
+    "link": "https://leetcode.com/problemset/all/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+  },
+  {
+    "category": "Coding Platforms",
+    "title": "HackerRank",
+    "type": "link",
+    "link": "https://www.hackerrank.com/domains/tutorials/10-days-of-javascript",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+  },
+  {
+    "category": "Coding Platforms",
+    "title": "GeeksforGeeks",
+    "type": "link",
+    "link": "https://practice.geeksforgeeks.org/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20210914115708/gfglogo.png"
+  },
+  {
+    "category": "Coding Platforms",
+    "title": "Codeforces",
+    "type": "link",
+    "link": "https://codeforces.com/problemset",
+    "image": "https://sta.codeforces.com/s/34614/images/codeforces-sponsored-by-ton.png"
+  },
+  {
+    "category": "Placement Resources",
+    "title": "Top 100 DSA Interview Questions (PDF)",
+    "type": "link",
+    "link": "https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230706095706/intro-data-structure-algorithm.png"
+  },
+  {
+    "category": "Placement Resources",
+    "title": "Resume Building Guide",
+    "type": "link",
+    "link": "https://www.geeksforgeeks.org/how-to-write-a-resume-for-fresher-software-developer/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20220222105320/resumewritingtips.png"
+  },
+  {
+    "category": "Placement Resources",
+    "title": "HR Questions Guide",
+    "type": "link",
+    "link": "https://www.geeksforgeeks.org/top-hr-interview-questions-answers/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20220222105320/resumewritingtips.png"
+  },
+  {
+    "category": "Placement Resources",
+    "title": "Mock Interviews (YouTube)",
+    "type": "link",
+    "link": "https://www.youtube.com/results?search_query=mock+technical+interviews",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
+  },
+  {
+    "category": "Mini Projects",
+    "title": "Face Recognition Attendance System",
+    "type": "link",
+    "link": "https://www.geeksforgeeks.org/face-recognition-using-python/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20200721011309/facerecognition.png"
+  },
+  {
+    "category": "Mini Projects",
+    "title": "Student Dashboard Web App",
+    "type": "link",
+    "link": "https://www.geeksforgeeks.org/student-management-system-using-django/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20200721011309/webdevelopment.png"
+  },
+  {
+    "category": "Mini Projects",
+    "title": "Todo App using React",
+    "type": "link",
+    "link": "https://www.geeksforgeeks.org/how-to-build-a-todo-app-with-react/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230630120349/react-programming-language.webp"
+  },
+  {
+    "category": "Mini Projects",
+    "title": "Realtime Chat App using Firebase",
+    "type": "link",
+    "link": "https://www.geeksforgeeks.org/build-a-chat-app-using-react-and-firebase/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20200721011309/firebase.png"
+  },
+  {
+    "category": "Downloadable Notes",
+    "title": "DBMS Notes",
+    "type": "link",
+    "link": "https://www.geeksforgeeks.org/dbms/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20210928194949/DatabaseManagementSystem.png"
+  },
+  {
+    "category": "Downloadable Notes",
+    "title": "CN Important Questions",
+    "type": "link",
+    "link": "https://www.geeksforgeeks.org/computer-network-interview-questions/",
+    "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230417045622/Computer-Network-Tutorial.webp"
+  },
+  {
+    "category": "Books",
+    "title": "Object Oriented Programming with C++ by E. Balagurusamy",
+    "type": "link",
+    "link": "https://archive.org/details/ObjectOrientedProgrammingWithCPlusPlusByEBalagurusamy",
+    "image": "https://covers.openlibrary.org/b/id/8231856-L.jpg"
+  },
+  {
+    "category": "Books",
+    "title": "Computer Networks by Andrew S. Tanenbaum",
+    "type": "link",
+    "link": "https://archive.org/details/ComputerNetworksByAndrewSTanenbaum",
+    "image": "https://covers.openlibrary.org/b/id/8228691-L.jpg"
+  },
+  {
+    "category": "Books",
+    "title": "Database System Concepts by Silberschatz, Korth, Sudarshan",
+    "type": "link",
+    "link": "https://archive.org/details/DatabaseSystemConcepts6thEdition",
+    "image": "https://covers.openlibrary.org/b/id/8091016-L.jpg"
+  },
+  {
+    "category": "Books",
+    "title": "Operating System Concepts by Silberschatz, Galvin, Gagne",
+    "type": "link",
+    "link": "https://archive.org/details/OperatingSystemConcepts9thEdition",
+    "image": "https://covers.openlibrary.org/b/id/8231996-L.jpg"
+  },
+  {
+    "category": "Books",
+    "title": "Introduction to Algorithms by Cormen, Leiserson, Rivest, Stein",
+    "type": "link",
+    "link": "https://archive.org/details/IntroductionToAlgorithms3rdEdition_201810",
+    "image": "https://covers.openlibrary.org/b/id/8235116-L.jpg"
+  },
+  {
+    "category": "Books",
+    "title": "Let Us C by Yashavant Kanetkar",
+    "type": "link",
+    "link": "https://archive.org/details/LetUsC-YashavantKanetkar",
+    "image": "https://covers.openlibrary.org/b/id/8231857-L.jpg"
+  }
+]
